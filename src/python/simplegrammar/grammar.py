@@ -1,5 +1,6 @@
 from utils import get_random, is_int
 
+
 class SimpleGrammar:
     def __init__(self):
         self.reset_tags()
