@@ -6,3 +6,4 @@ fi
 
 
 alias textgen-merryxmas-pt="python2 -m textgen.feliz_natal"
+alias textgen-merryxmas-ko="python2 -m textgen.ko_xmas"
