@@ -8,3 +8,4 @@ fi
 alias textgen-merryxmas-pt="python3 -m textgen.feliz_natal"
 alias textgen-merryxmas-ko="python3 -m textgen.ko_xmas"
 alias textgen-en-gen="python3 -m textgen.english.gen_english_phrase"
+alias textgen-markov="python3 -m textgen.markov"
